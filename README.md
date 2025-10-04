@@ -1,3 +1,5 @@
+![logo](https://github.com/RekhaVerma2806/RekhaVerma2806/blob/main/background.jfif)
+
 # 👋 Hi, I'm Rekha Verma
 
 🚀 **Senior Engineering Analyst | Laravel & PHP Developer | Full Stack Enthusiast**
