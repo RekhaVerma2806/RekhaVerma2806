@@ -1,4 +1,4 @@
-![logo](https://github.com/RekhaVerma2806/RekhaVerma2806/blob/main/background_banner.png)
+![logo](https://github.com/RekhaVerma2806/RekhaVerma2806/blob/main/CoverPicture.png)
 
 # 👋 Hi, I'm Rekha Verma
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
