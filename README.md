@@ -1,7 +1,7 @@
 ![logo](https://github.com/RekhaVerma2806/RekhaVerma2806/blob/main/background.jfif)
 
 # 👋 Hi, I'm Rekha Verma
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
+<img align="right" alt="coding" width="400" src=["https://tenor.com/view/coding-girl-gif-2332171326726785246](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif)">
 🚀 **Senior Engineering Analyst | Laravel & PHP Developer | Full Stack Enthusiast**
 
 I'm a passionate Laravel Developer with 4.6+ years of experience building robust, scalable, and high-performing web applications.  
