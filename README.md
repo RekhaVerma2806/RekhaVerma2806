@@ -1,7 +1,7 @@
 ![banner](https://github.com/RekhaVerma2806/RekhaVerma2806/blob/main/CoverPicture.png)
 
 # 👋 Hi, I'm Rekha Verma
-<img align="right" alt="coding" width="380" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align="right" alt="coding" width="380" src="https://github.com/RekhaVerma2806/RekhaVerma2806/blob/main/coding-girl.gif">
 
 🚀 **Senior Engineering Analyst | Laravel & PHP Developer | Full Stack Enthusiast**
 
