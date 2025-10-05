@@ -40,7 +40,7 @@ I love transforming ideas into clean, maintainable, and high-performing code usi
 
 ### 💻 Languages & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,html,css,bootstrap" />
 </p>
 
 ### 🗄️ Databases  
@@ -51,27 +51,49 @@ I love transforming ideas into clean, maintainable, and high-performing code usi
 
 ### ⚙️ Tools & Others  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,apache,vscode" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,apache,vscode,composer,linux,bash" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Laravel Concepts (**Queues, Events, Policies**)  
-- RESTful API Design & Best Practices  
-- System Design & Scalability for PHP Applications  
+## 🌱 Currently Learning  
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721295.png" width="26"/>  
+  <b>Advanced Laravel Concepts:</b> Queues, Events, Policies  
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" width="26"/>  
+  <b>React.js:</b> Frontend Components, Hooks & API Integration  
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/2921/2921226.png" width="26"/>  
+  <b>RESTful API Design:</b> Best Practices & Secure Architecture  
+  <br>
+  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048947.png" width="26"/>  
+  <b>System Design:</b> Scalable Architecture for PHP Applications
+</p>
 
 ---
 
 ## 📫 Contact Me  
+<p align="center">
+  <a href="mailto:vrekha116@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rekha-verma-34aa81288">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/RekhaVerma2806">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="40" alt="GitHub"/>
+  </a>
+</p>
 
-📧 **Email:** [vrekha116@gmail.com](mailto:vrekha116@gmail.com)  
-📍 **Location:** Gurugram, Haryana, India  
-🔗 **LinkedIn:** [linkedin.com/in/rekha-verma-34aa81288](https://www.linkedin.com/in/rekha-verma-34aa81288)  
+<p align="center">
+  📍 <b>Gurugram, Haryana, India</b>  
+  <br>
+  ✉️ <a href="mailto:vrekha116@gmail.com">vrekha116@gmail.com</a>
+</p>
 
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+⭐ *“Code is like humor. When you have to explain it, it’s bad.”* — *Cory House*  
