@@ -5,7 +5,7 @@
 
 🚀 **Senior Engineering Analyst | Laravel & PHP Developer | Full Stack Enthusiast**
 
-I’m a passionate **Laravel Developer** with **4.9 years of experience** in building scalable, efficient, and user-centric web applications.  
+I’m a passionate **Laravel Developer** with **5 years of experience** in building scalable, efficient, and user-centric web applications.  
 I love transforming ideas into clean, maintainable, and high-performing code using **PHP, Laravel, MySQL**, and modern frontend tools.
 
 ---
